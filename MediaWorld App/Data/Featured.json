@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Apple Days",
+        "image": "appledays",
+        "dex": "Great offers, zero interest",
+        "deals": "iPhone, iPad, MacBook, AirPods",
+        "due": 18
+    },
+    {
+        "name": "Underprice",
+        "image": "underprice",
+        "dex": "We devour prices!",
+        "deals": "Interest-free rates",
+        "due": 19
+    },
+    {
+        "name": "Just for the Weekend",
+        "image": "justweekend",
+        "dex": "Hurry up!",
+        "deals": "Flash deals",
+        "due": 0
+    },
+    {
+        "name": "Whirlpool Week",
+        "image": "whirlpool",
+        "dex": "The largest home appliance selection",
+        "deals": "Washing Machine, Oven, Fridge",
+        "due": 24
+    },
+    {
+        "name": "Goodmorning Tech",
+        "image": "goodmorningtech",
+        "dex": "Morning deals",
+        "deals": "Jumpstart your day",
+        "due": 31
+    },
+    {
+        "name": "Close the Gap",
+        "image": "closegap",
+        "dex": "Technology that shortens the distances",
+        "deals": "Brondi brings people together",
+        "due": 31
+    },
+    {
+        "name": "Cellularline Free Shipping",
+        "image": "freeshipping",
+        "dex": "Smartphone accessories travel free",
+        "deals": "Pods and Speakers",
+        "due": 31
+    },
+    {
+        "name": "Electromobility",
+        "image": "electromobility",
+        "dex": "Enter a world of electricity and movement!",
+        "deals": "Move faster with Monopads",
+        "due": 31
+    }
+]

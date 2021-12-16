@@ -1,0 +1,42 @@
+[
+    {
+        "brand": "Apple",
+        "name": "iPhone 13",
+        "model": "256GB",
+        "color": "Blue",
+        "image": "iphone",
+        "price": 1059.00,
+        "fixedPrice": 949.00,
+        "available": 135
+    },
+    {
+        "brand": "Lavazza",
+        "name": "Desea",
+        "model": "",
+        "color": "White Cream",
+        "image": "lavazza",
+        "price": 199.99,
+        "fixedPrice": 192.99,
+        "available": 56
+    },
+    {
+        "brand": "Apple",
+        "name": "iPad Pro 12.9",
+        "model": "256GB M1",
+        "color": "Gris Sideral",
+        "image": "ipad",
+        "price": 1329.00,
+        "fixedPrice": 0,
+        "available": 0
+    },
+    {
+        "brand": "Nintendo",
+        "name": "Joy-Con",
+        "model": "",
+        "color": "Red/Blue Neon",
+        "image": "joycon",
+        "price": 79.99,
+        "fixedPrice": 69.99,
+        "available": 5
+    }
+]

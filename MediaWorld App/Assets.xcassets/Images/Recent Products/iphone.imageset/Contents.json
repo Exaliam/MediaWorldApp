@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "iphone-13-256gb-blue1x.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "iphone-13-256gb-blue2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "iphone-13-256gb-blue3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

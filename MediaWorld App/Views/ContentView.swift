@@ -8,9 +8,13 @@
 import SwiftUI
 
 struct ContentView: View {
+    var officialDeals: [Featured] = Featured.data
+    var officialRecents: [Product] = Product.data
+    
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        ZStack {
+            TabBarView(userDeals: officialDeals, userRecents: officialRecents)
+        }
     }
 }
 
